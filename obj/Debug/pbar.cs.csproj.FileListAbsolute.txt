@@ -1,0 +1,6 @@
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\MrSale\pbar.cs\bin\Debug\pbar.cs.dll
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\MrSale\pbar.cs\bin\Debug\pbar.cs.pdb
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\MrSale\pbar.cs\obj\Debug\pbar.cs.pbarcontrol.resources
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\MrSale\pbar.cs\obj\Debug\pbar.cs.csproj.GenerateResource.Cache
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\MrSale\pbar.cs\obj\Debug\pbar.cs.dll
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\MrSale\pbar.cs\obj\Debug\pbar.cs.pdb
